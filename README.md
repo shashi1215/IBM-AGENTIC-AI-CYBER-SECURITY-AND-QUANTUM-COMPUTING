@@ -1,1 +1,1 @@
-These are outcomes of 5 Days Offline workshpp with Handson work done in full length fashion
+Participated in the IBM Faculty Development Program (FDP) focused on Agentic AI, Cyber Security, and Quantum Computing. Developed NeoCare Agent, an AI-powered intelligent healthcare assistant that leverages agentic AI principles to provide smart patient support, automate healthcare workflows, and deliver context-aware assistance. The project emphasized secure, intelligent, and future-ready AI solutions for healthcare applications.
